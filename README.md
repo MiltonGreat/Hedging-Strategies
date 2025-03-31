@@ -38,6 +38,4 @@ Future Improvements
 
 ### Source
 
-### Source
-
 ![Forex Exchange Rates Since 2004 from Kaggle](https://www.kaggle.com/datasets/asaniczka/forex-exchange-rate-since-2004-updated-daily)
