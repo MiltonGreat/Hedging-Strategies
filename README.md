@@ -31,10 +31,10 @@ This project explores hedging strategies in forex trading by testing a moving av
 
 Future Improvements
 
-🔹 Optimize MA Periods: Test different short/long window lengths
-🔹 Combine with Other Indicators: Add RSI, MACD, Bollinger Bands
-🔹 Improve Risk Management: Use stop-loss/take-profit levels
-🔹 Explore Alternative Strategies: Consider machine learning-based forecasting
+- Optimize MA Periods: Test different short/long window lengths
+- Combine with Other Indicators: Add RSI, MACD, Bollinger Bands
+- Improve Risk Management: Use stop-loss/take-profit levels
+- Explore Alternative Strategies: Consider machine learning-based forecasting
 
 ### Source
 
