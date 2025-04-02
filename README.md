@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This project explores hedging strategies in forex trading by testing a moving average crossover strategy. The strategy generates trading signals based on the crossover of a short-term (20-day) and long-term (50-day) moving average. We analyze the strategy's profitability, volatility, and risk management using daily exchange rate data from 2000 to 2019.
+This project explores hedging strategies in forex trading by testing a moving average crossover strategy. The strategy generates trading signals based on the crossover of a short-term (20-day) and long-term (50-day) moving average. I analyze the strategy's profitability, volatility, and risk management using daily exchange rate data from 2000 to 2019.
 
 ### Strategy Explanation
 
@@ -29,7 +29,7 @@ This project explores hedging strategies in forex trading by testing a moving av
 
 **NOTE:** The moving average crossover in this setup failed to generate profitable signals and was not an effective hedging strategy.
 
-Future Improvements
+### Future Improvements
 
 - Optimize MA Periods: Test different short/long window lengths
 - Combine with Other Indicators: Add RSI, MACD, Bollinger Bands
